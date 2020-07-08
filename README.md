@@ -1,3 +1,3 @@
-# TTGO_TWatch_Library with PlatformIO
+# LilyGo Watch - Ultimate Cat Watch
 
-A very simple example of using the TTGO TWatch Library with PlatformIO
+Building the Ultimate Cat Watch
